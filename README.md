@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
+
+A Junior Data Scientist based in Brussels, Belgium.
 
 <!--
 **danielmendoza4213/danielmendoza4213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
