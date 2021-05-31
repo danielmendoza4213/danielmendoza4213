@@ -1,8 +1,12 @@
 ### Hi there, I'm Daniel 👋
 
-A Junior Data Scientist based in Brussels, Belgium.
+I'm a Junior Data Scientist based in Brussels, Belgium.
 
-<!--
+Some proyects:
+
+* Team project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp [yoga_pose](https://github.com/danielmendoza4213/yoga_pose)
+
+!--
 **danielmendoza4213/danielmendoza4213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
