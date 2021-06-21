@@ -1,5 +1,7 @@
 ### Hi there, I'm Daniel 👋
 
+#### Under Construction :)
+
 I'm a Junior Data Scientist based in Brussels, Belgium.
 
 I’m currently working on my [tableau portfolio](https://public.tableau.com/profile/daniel.mendoza5395#!/) and [Image Background Removal model](link)
