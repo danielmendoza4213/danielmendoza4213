@@ -2,10 +2,6 @@
 
 #### Under Construction :)
 
-I'm a Junior Data Scientist based in Brussels, Belgium.
-
-I’m currently working on my [tableau portfolio](https://public.tableau.com/profile/daniel.mendoza5395#!/) and [Image Background Removal model](link)
-
 Some proyects:
 
 * Team project using deep learning techniques (CNN) to predict Yoga poses for a start up company in Antwerp [yoga_pose](https://github.com/danielmendoza4213/yoga_pose).
